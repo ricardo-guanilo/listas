@@ -12,7 +12,7 @@ while True:
     else:
         numeros.append(int(valor))
 
-# Verificar que la lista no esté vacía.
+# Verificar que la lista no esté vacía
 if len(numeros) == 0:
     print("\nNo ingresaste ningún número.")
 else:
